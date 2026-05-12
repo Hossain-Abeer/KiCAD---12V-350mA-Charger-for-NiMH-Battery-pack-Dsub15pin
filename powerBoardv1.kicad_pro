@@ -626,6 +626,14 @@
       "version": 1
     },
     "net_format_name": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 4,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "reuse_designators": true,
@@ -645,7 +653,7 @@
         "uuid": "e61e13dc-3a56-4575-99e0-403c3d100eff"
       }
     ],
-    "used_designators": "#PWR5",
+    "used_designators": "C1_Cin1,R9_INH1,C2_Cout1,C3_Cff1,C_LM_in1,C_LM_out1,D2_LED1,Dsub1,D_LM1,R3_Rfb_up1,R4_Rfb_dwn1,R5_LED1,R6_top1,R7_bottom1,R8_NTC1,R_CC1,R_SNS1,TH1_NTC1,U2",
     "variants": []
   },
   "sheets": [
